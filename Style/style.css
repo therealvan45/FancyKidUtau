@@ -1,0 +1,11 @@
+body {
+    background-image: url("../Assets/background.jpg");
+    background-attachment: fixed;
+}
+
+#DownloadPage {
+    width: 1000px;
+    height: 200px;
+    background-image: url("../Assets/background 2.jpg");
+    border: white;
+}
